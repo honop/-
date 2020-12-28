@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3325f2b38c034f643ac91b52bb53ffcf, type: 3}
+  m_Name: Res
+  m_EditorClassIdentifier: 
+  SpriteAtlas: {fileID: 4343727234628468602, guid: d0a284e522c42c245995ad6fb9a53222,
+    type: 2}
+  ImageIds:
+  - img0
+  - img1
+  - img2
+  - img3
+  - img4
+  - img5
+  - img6
+  - img7
+  - img8
+  - img9
+  - img10
+  - img11
+  - img12
+  - img13
+  - img14
+  - img15
+  - img16
+  - img17
+  - img18
+  - img19
+  - img20
+  - img21
+  - img22
+  - img23
+  - img24
+  - img25
+  - img26
+  - img27
+  - img28
+  - img29
+  - img30
+  - img31
+  - img32
+  - img33
+  - img34
+  - img35
+  - img36
+  - img37
+  - img38
+  - img39
+  - img40
+  - img41
+  - img42
+  - img43
+  - img44
+  - img45
+  - img46
+  - img47
+  - img48
+  VideoClips: []
+  AudioClips:
+  - {fileID: 8300000, guid: 3e834027097b040039e677aadc29e348, type: 3}
+  - {fileID: 8300000, guid: 1bc4d0c9970df475ba52fb89a876176e, type: 3}
+  - {fileID: 8300000, guid: 8c9210eb1ab864bdabc549486eb0196a, type: 3}
+  - {fileID: 8300000, guid: 80bf65e0da8a3447cb4f00ede6ab3d06, type: 3}
+  - {fileID: 8300000, guid: bca7da52612504a7cabca5966f5ba911, type: 3}
+  - {fileID: 8300000, guid: 9c7a5123229a24c2a90c371a98e8366b, type: 3}
+  - {fileID: 8300000, guid: 9d2a9f4a4cfe34da5a96f93d29a693fe, type: 3}
+  - {fileID: 8300000, guid: e4c91103b26f24f7b8de0b22d15fd2ef, type: 3}
+  TextAssets: []
+  Fonts:
+  - {fileID: 12800000, guid: ed4044259a85248edaa1aedb5a44df1e, type: 3}
+  AudioMixer: {fileID: 24100000, guid: 51a7d4fd5864e431f9705e00cbf7ef11, type: 2}
+  ShaderOpaque: {fileID: 4800000, guid: b07486247c81e004087cdab0a27f97cf, type: 3}
+  ShaderTransparentImage: {fileID: 4800000, guid: e3d76065aa8714545a415c3c6dc3fdc6,
+    type: 3}
+  ShaderTransparentColor: {fileID: 4800000, guid: 036731672c6122d42aadffff5b94f6cc,
+    type: 3}
