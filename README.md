@@ -37,12 +37,6 @@ This software is released under the MIT License, see [LICENSE](LICENSE).
 
 ## 2020年度春学期スマートデバイスプログラミング
 
-・名前：桶田穂の香
-
-・ログイン名：t18173ho
-
-・学籍番号：71841736
-
 ・アプリ名：単位かき集めゲーム
 
 ・想定している端末の機種名、縦横の解像度：iphone11、720x1280
