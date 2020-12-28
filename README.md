@@ -52,7 +52,7 @@ This software is released under the MIT License, see [LICENSE](LICENSE).
 ・備考 流用したリソース、アセットがあれば記載してください。 （自作リソースで、来期以降の授業で使っても良い、という場合は、書いておいてください）
 
 【参考にしたもの・使用した外部データなど】
-1. アイテムが空から降ってくるプログラミング：「スマートデバイスプログラミング 第4回　Unityで開発してみよう（その３、表示編）（http://web.sfc.keio.ac.jp/~wadari/sdp/k04.html）」の課題内容を改変しました。 
+1. アイテムが空から降ってくるプログラミング：「スマートデバイスプログラミング 第4回　Unityで開発してみよう（その３、表示編）http://web.sfc.keio.ac.jp/~wadari/sdp/k04.html 」の課題内容を改変しました。 
 2. 自作のオレンジ矢印ボタン（Adobe Illustratorで作成）以外の全ての画像：「かわいいフリー素材集　いらすとや」（https://www.irasutoya.com/） 
 3. 使用したフォント：「ぼくたちのゴシック２レギュラー」（https://fontopo.com/?p=94） 
 上記以外のプログラミング内容に関しては、適宜「Class Proxy GameCanvas API（https://sfc-sdp.github.io/GameCanvas-Unity/api/GameCanvas.Proxy.html）」や「スマートデバイスプログラミング　授業テキスト（http://web.sfc.keio.ac.jp/~wadari/sdp/）」の各回の「今週使う変数、メソッド」を参考にしました。
