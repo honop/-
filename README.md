@@ -52,17 +52,17 @@ This software is released under the MIT License, see [LICENSE](LICENSE).
 ・備考 流用したリソース、アセットがあれば記載してください。 （自作リソースで、来期以降の授業で使っても良い、という場合は、書いておいてください）
 
 【参考にしたもの・使用した外部データなど】
-1. アイテムが空から降ってくるプログラミング：「スマートデバイスプログラミング 第4回　Unityで開発してみよう（その３、表示編）http://web.sfc.keio.ac.jp/~wadari/sdp/k04.html 」の課題内容を改変しました。 
-2. 自作のオレンジ矢印ボタン（Adobe Illustratorで作成）以外の全ての画像：「かわいいフリー素材集　いらすとや」（https://www.irasutoya.com/） 
-3. 使用したフォント：「ぼくたちのゴシック２レギュラー」（https://fontopo.com/?p=94） 
-上記以外のプログラミング内容に関しては、適宜「Class Proxy GameCanvas API（https://sfc-sdp.github.io/GameCanvas-Unity/api/GameCanvas.Proxy.html）」や「スマートデバイスプログラミング　授業テキスト（http://web.sfc.keio.ac.jp/~wadari/sdp/）」の各回の「今週使う変数、メソッド」を参考にしました。
+1. アイテムが空から降ってくるプログラミング：「スマートデバイスプログラミング 第4回　Unityで開発してみよう（その３、表示編）(http://web.sfc.keio.ac.jp/~wadari/sdp/k04.html) 」の課題内容を改変しました。 
+2. 自作のオレンジ矢印ボタン（Adobe Illustratorで作成）以外の全ての画像：「かわいいフリー素材集　いらすとや」(https://www.irasutoya.com/)
+3. 使用したフォント：「ぼくたちのゴシック２レギュラー」(https://fontopo.com/?p=94)
+4. 上記以外のプログラミング内容に関しては、適宜「Class Proxy GameCanvas API（https://sfc-sdp.github.io/GameCanvas-Unity/api/GameCanvas.Proxy.html) 」や「スマートデバイスプログラミング　授業テキスト(http://web.sfc.keio.ac.jp/~wadari/sdp/) 」の各回の「今週使う変数、メソッド」を参考にしました。
 
 【使用したBGM一覧】 
-Snd0:「しっぽフリフリ by すもち（https://dova-s.jp/bgm/play12668.html）」 
-Snd1:「効果音ラボ『決定、ボタン押下音　深い響き』（https://soundeffect-lab.info/sound/button/）」 
-Snd2:「かわいい効果音3 by 作田京輔（https://dova-s.jp/se/play685.html）」 
-Snd3:「かわいい効果音 by 作田京輔（https://dova-s.jp/se/play680.html）」 
-Snd4:「アイテム発見 by 作田京輔（https://dova-s.jp/se/play640.html）」 
-Snd5:「効果音ラボ『キャンセル5 チュン』（https://soundeffect-lab.info/sound/button/）」 
-Snd6:「焦り・失敗した時の音 by Yuno（https://dova-s.jp/se/play1234.html）」 
-Snd7:「音人『ハープ01（上がり）』（https://on-jin.com/sound/listshow.php?pagename=ta&title=%E3%83%8F%E3%83%BC%E3%83%9701%EF%BC%88%E4%B8%8A%E3%81%8C%E3%82%8A%EF%BC%89&janl=%E3%81%9D%E3%81%AE%E4%BB%96%E9%9F%B3&bunr=%E5%BC%A6%E6%A5%BD%E5%99%A8%E7%B3%BB&kate=%E6%A5%BD%E5%99%A8%E7%B3%BB）」
+Snd0:「しっぽフリフリ by すもち(https://dova-s.jp/bgm/play12668.html)」 
+Snd1:「効果音ラボ『決定、ボタン押下音　深い響き』(https://soundeffect-lab.info/sound/button/)」 
+Snd2:「かわいい効果音3 by 作田京輔(https://dova-s.jp/se/play685.html)」 
+Snd3:「かわいい効果音 by 作田京輔(https://dova-s.jp/se/play680.html)」 
+Snd4:「アイテム発見 by 作田京輔(https://dova-s.jp/se/play640.html)」 
+Snd5:「効果音ラボ『キャンセル5 チュン』(https://soundeffect-lab.info/sound/button/)」 
+Snd6:「焦り・失敗した時の音 by Yuno(https://dova-s.jp/se/play1234.html)」 
+Snd7:「音人『ハープ01（上がり）』(https://on-jin.com/sound/listshow.php?pagename=ta&title=%E3%83%8F%E3%83%BC%E3%83%9701%EF%BC%88%E4%B8%8A%E3%81%8C%E3%82%8A%EF%BC%89&janl=%E3%81%9D%E3%81%AE%E4%BB%96%E9%9F%B3&bunr=%E5%BC%A6%E6%A5%BD%E5%99%A8%E7%B3%BB&kate=%E6%A5%BD%E5%99%A8%E7%B3%BB)」
